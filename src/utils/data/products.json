@@ -1,0 +1,165 @@
+
+[{
+  "id": 1,
+  "title": "Nintendo 64",
+  "description": "es la cuarta videoconsola de sobremesa producida por Nintendo, desarrollada para suceder a la Super Nintendo",
+  "price": 55000,
+  "stock": 12,
+  "category": "Consolas",
+  "thumbnail": "https://dodo.ac/np/images/thumb/8/8d/Nintendo_64.png/1200px-Nintendo_64.png"
+
+},
+{
+  "id": 2,
+  "title": "Super Nintendo",
+  "description": "La Super Nintendo Entertainment System, conocida popularmente como la Super Nintendo, también llamada la Super Famicom",
+  "price": 24000,
+  "stock": 12,
+  "category": "Consolas",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/36/SNES-Mod1-Console-Set.png"
+ 
+},
+{
+  "id":3,
+  "title": "Game Boy color",
+  "description": "abreviada GBC, es una videoconsola portátil de la quinta generación de la familia de sistemas de videojuegos de Nintendo",
+  "price": 12000,
+  "stock": 24,
+  "category": "Consolas",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Game-Boy-FL.png/1689px-Game-Boy-FL.png"
+ 
+},{
+  "id": 4,
+  "title": "Sega Genesis",
+  "description": "Mega Drive, conocida en diversos territorios de América como Genesis, es una videoconsola de sobremesa de 16 bits desarrollada por Sega Enterprises, Ltd.",
+  "price": 7000,
+  "stock": 32,
+  "category": "Consolas",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Genesis2t.png"
+ 
+},{
+  "id": 5,
+  "title": "Playstation",
+  "description": " PS es el nombre de una serie de consolas de videojuegos creadas y desarrolladas por Sony Interactive Entertainment. ",
+  "price": 24000,
+  "stock": 18,
+  "category": "Consolas",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/PSX-Console-wController.png/1200px-PSX-Console-wController.png"
+ 
+},{
+  "id": 6,
+  "title": "pokemon amarillo",
+  "description": "Pokémon Yellow: Special Pikachu Edition, conocido en Japón como: Pocket Monsters Pikachu, es la tercera edición de los primeros videojuegos de Pokémon del género RPG para Game Boy.",
+  "price": 3500,
+  "stock": 5,
+  "category": "Juegos",
+  "thumbnail": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/game_boy_4/H2x1_GB_PokemonYellow_enGB_image1600w.jpg"
+ 
+},{
+  "id": 7,
+  "title": "Legend of Zelda",
+  "description": "The Legend of Zelda es una serie de videojuegos de acción-aventura creada por los diseñadores japoneses Shigeru Miyamoto y Takashi Tezuka, ​ y desarrollada por Nintendo,",
+  "price": 24000,
+  "stock": 2,
+  "category": "Juegos",
+  "thumbnail": "https://static.wikia.nocookie.net/n64/images/d/d8/The_Legend_of_Zelda_Ocarina_of_Time_NTSC-U.jpg/revision/latest?cb=20200901154518&path-prefix=es"
+ 
+},{
+  "id": 8,
+  "title": "mortal kombat 3 ultimate",
+  "description": "Ultimate Mortal Kombat 3 es el cuarto juego de la saga, aunque solo es la actualización de la tercera entrega, el cual fue lanzado para Arcade por Midway Games en 1995.",
+  "price": 1200,
+  "stock": 14,
+  "category": "Juegos",
+  "thumbnail": "https://i.pinimg.com/474x/44/c3/82/44c38297042ea2fe8e46d8c1615847fa.jpg"
+ 
+},{
+  "id": 9,
+  "title": "metal gear solid",
+  "description": "Metal Gear Solid es un videojuego de acción-aventura y sigilo de 1998 desarrollado por Konami Computer Entertainment Japan",
+  "price": 2000,
+  "stock": 10,
+  "category": "Juegos",
+  "thumbnail": "https://i.pinimg.com/736x/fd/6a/43/fd6a4384bccbe4b4935fed57b393aac4.jpg"
+ 
+},{
+  "id": 10,
+  "title": "super mario world",
+  "description": "Super Mario World, conocido en Japón como Super Mario World: Super Mario Bros. 4​ es un videojuego de plataformas para Super Nintendo Entertainment System",
+  "price": 5000,
+  "stock": 2,
+  "category": "Juegos",
+  "thumbnail": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/super_nintendo_5/H2x1_SNES_SuperMarioWorld_image1600w.jpg"
+ 
+},{
+  "id": 11,
+  "title": "Sega Cd",
+  "description": "El Sega CD, también conocido como el Mega-CD​ en la mayoría de las regiones fuera de América del Norte y Brasil, es un periférico de CD-ROM para la Sega Genesis producido por Sega como parte de la cuarta generación de consolas de videojuegos",
+  "price": 15000,
+  "stock": 4,
+  "category": "Perifericos",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sega-CD-Model1-Set.jpg/250px-Sega-CD-Model1-Set.jpg"
+ 
+},
+{
+  "id": 12,
+  "title": "transfer pak nintendo 64",
+  "description": "El Transfer Pak es un dispositivo para el Nintendo 64 que permite transferir datos entre la consola y el Game Boy o Game Boy Color",
+  "price": 2500,
+  "stock": 6,
+  "category": "Perifericos",
+  "thumbnail": "https://img.unocero.com/2020/06/que-hacia-transfer-pak-nintendo-64-4-1.jpg"
+ 
+},
+{
+  "id": 13,
+  "title": "Pantalla LCD para el PlayStation One",
+  "description": "La consola de videojuegos Sony PlayStation. Este es el modelo de PSone, la última revisión de hardware que vino con un factor de forma nuevo y mucho más pequeño. La consola se muestra con la pantalla LCD opcional que se lanzó junto con la consola o se incluye con ella.",
+  "price": 130000,
+  "stock": 2,
+  "category": "Perifericos",
+  "thumbnail": "https://m.media-amazon.com/images/I/61781mkcyZL._SL1000_.jpg"
+ 
+},
+{
+  "id": 14,
+  "title": "Metal Gear Solid : Premium Package",
+  "description": "Fue la primera edición de coleccionista en llegar a España, además de ser la primera que recibiría la saga de Hideo Kojima. Esta edición salió a la venta en Japón el 3 de septiembre de 1998, aunque también llegó a Europa con algunas variaciones en su contenido como por ejemplo el diseño de la camiseta. La edición se presenta con una caja de cartón pintada para lograr un aspecto metálico, con tapas abatibles y que una vez abierta nos revela todo su contenido:",
+  
+  "price": 12500,
+  "stock": 4,
+  "category": "Edicion coleccionista",
+  "thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/04/584944-metal-gear-solid-premium-packagejpg.jpg?tf=1920x"
+ 
+},
+{
+  "id": 15,
+  "title": "he Legend of Zelda: Majora's Mask Limited Edition",
+  "description": "Corría el año 2000 cuando nuestro héroe del tiempo pasó a disponer de sólo tres días para evitar que la luna destruyera el mundo en The Legend of Zelda: Majora's Mask, pero mucho más sorprendente que eso es la impresionante edición limitada con la que contó el juego de Nintendo 64, una edición de la que sólo hay 1.000 unidades disponibles y que contenía lo siguiente.",
+  "price": 1000,
+  "stock": 6,
+  "category": "Edicion coleccionista",
+  "thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/04/584952-0041jpg.jpg?tf=1080x"
+ 
+},
+{
+  "id": 16,
+  "title": "Resident Evil Edición 5º aniversario",
+  "description": "Qué es lo que debe tener todo agente de Umbrella? ¡Eso es! Un maletín metalizado con todo lo necesario para defenderse de los zombies en Racoon City y eso es lo que pensaron en Capcom cuando cinco años después del lanzamiento de Resident Evil dedicieron lanzar esta magnífica edición de coleccionista exclusiva de Japón de la que sólo existen 10.000 unidades. Es una de las ediciones más difíciles de conseguir (por 530 dólares en Amazon USA) y hasta el momento la más elegante, entre sus gadgets podemos encontrar:",
+  "price": 23000,
+  "stock": 2,
+  "category": "Edicion coleccionista",
+  "thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/04/585334-11jpg.jpg?tf=1920x"
+ 
+},
+{
+  "id": 17,
+  "title": "Halo 3 Edición Legendaria",
+  "description": "La tercera entrega del Jefe Maestro llegó al mercado con 3 ediciones diferentes: Standard, Limitada y Legendaria. Como no iba a ser de otra manera en este reportaje nos hemos centrado en la más espectacular del juego de Microsoft y Bungie, una edición que lanzada en un número muy limitado y que contaba entre sus objetos más preciados con un casco del Spartan 117.",
+  "price": 19000,
+  "stock": 5,
+  "category": "Edicion coleccionista",
+  "thumbnail": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/04/585508-halo-edicion-legendariajpg.jpg?tf=640x"
+ 
+}
+]
